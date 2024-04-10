@@ -16,7 +16,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![OpenCV](https://img.shields.io/badge/opencv-05122A?style=flat&logo=opencv&logoColor=007ACC)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv&logoColor=007ACC)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=007ACC)&nbsp;
+
 
 ### &nbsp;Learning
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
