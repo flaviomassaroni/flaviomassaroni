@@ -18,15 +18,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv&logoColor=007ACC)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=pytorch&logoColor=007ACC)&nbsp;
-
-
-### &nbsp;Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=007ACC)&nbsp;
+<br />
+![Ros](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=007ACC)&nbsp;
+<br />
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-
 
 <br />
