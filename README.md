@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Flavio
 
-* I'm an Applied Computer Sciences and Artificial Intelligence student in Rome
+* I graduated in Applied Computer Sciences and Artificial Intelligence in Rome
 * I'm into AI, ML and I would like to implement what I've learned about it
 
 ### 🛠 &nbsp;Tech Stack
